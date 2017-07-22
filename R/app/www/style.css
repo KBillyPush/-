@@ -1,0 +1,74 @@
+.btn, .btn:active, .btn:focus {
+	background-color: #a80013 !important; 
+	border-color: #a80013 !important;
+	color: #fff !important;
+}
+
+.btn:hover {
+	background-color: #a80013 !important;
+	border-color: #a80013 !important;
+	color: #fff;
+}
+
+.navbar, .navbar-nav, .navbar-header, navbar-default, .navbar-static-top {
+	background-color: #000 !important;
+	margin-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: None;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.navbar-brand {
+	color: #fff !important;
+}
+
+.tab-content {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #828282 !important;
+}
+
+.navbar-nav>.active>a {
+	background-color: #000 !important;
+	color: #fff !important;
+	border-bottom: thick solid #a80013;
+}
+
+.navbar-nav>li>a:hover {
+	background-color: #000 !important;
+	color: #fff !important;
+}
+
+.navbar-nav>li>a {
+	color: #828282 !important;
+}
+
+.navbar-text, .navbar-text>a {
+	float: right;
+	color: #fff !important;
+}
+
+.rect.highcharts-background {
+	fill: #000;
+}
+
+.well {
+	background-color: #ecebe8;
+	border-color: #ecebe8;
+	color: #000;
+}
+
+html {
+	background-color: #828282;
+}
+
+#uri_gif>img {
+	margin: auto;
+	width: 100%;
+}
